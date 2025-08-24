@@ -49,7 +49,8 @@ DATABASE_NAME=schoolbase.sqlite3
    
    Пример выполнения
    
-   <img width="495" height="124" alt="image" src="https://github.com/user-attachments/assets/1f0de7fa-a954-4e60-9467-751cde813cb2" />
+   <img width="389" height="119" alt="image" src="https://github.com/user-attachments/assets/7c5682e6-0e4a-4ea6-b277-6e04320443f0" />
+
    
    Ошибка в ФИО ученика
    
